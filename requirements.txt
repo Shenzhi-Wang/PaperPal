@@ -1,0 +1,19 @@
+# ArXiv API
+arxiv>=2.1.0
+
+# LLM Integration
+requests>=2.25.0
+
+# Terminal UI & Interactive shells
+rich>=13.0.0
+prompt_toolkit>=3.0.0
+
+# Date parsing
+python-dateutil>=2.8.2
+dateparser>=1.2.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Data handling
+pydantic>=2.0.0
